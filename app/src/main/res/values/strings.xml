@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HJL Scanner</string>
+    <string name="turn_on_flashlight">Hidupkan Flash</string>
+    <string name="turn_off_flashlight">Matikan Flash</string>
+</resources>

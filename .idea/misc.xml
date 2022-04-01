@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/conten_dashboard.xml" value="0.4041666666666667" />
+        <entry key="app/src/main/res/drawable/conten_head.xml" value="0.4041666666666667" />
+        <entry key="app/src/main/res/drawable/ic_account_box_24.xml" value="0.4041666666666667" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.18818681318681318" />
+        <entry key="app/src/main/res/layout/activity_detail_data_dashboard.xml" value="0.20914744611535593" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18023802051314855" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.29382470248852166" />
+        <entry key="app/src/main/res/layout/activity_scanner.xml" value="0.2743384665902191" />
+        <entry key="app/src/main/res/layout/alert_dashboard.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/custom_scanner.xml" value="0.18404373935742588" />
+        <entry key="app/src/main/res/layout/item_dashboard.xml" value="0.25276752767527677" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
